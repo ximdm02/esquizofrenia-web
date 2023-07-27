@@ -1,0 +1,215 @@
+body{
+    background-color:#E2E9FD;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: larger;
+    margin-left: 30px;
+}
+
+.maintitle{
+    text-align: center;
+    color: darkslategrey;
+    font-style: initial;
+}
+
+.generalidades{
+    text-align: center;
+}
+
+.pintor{
+    width: 300px;
+    margin-left: 460px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.indicepalabra{
+    color: darkslateblue;
+
+}
+
+.unice{
+    text-decoration: underline;
+    color: blue;
+}
+
+.indice{
+    margin-bottom: 70px;
+    margin-left: 20px;
+    
+}
+
+.senti{
+    overflow: auto;
+    float: left;
+    margin-right: 100px;
+}
+
+.astitle{
+    margin-top: 100px;
+}
+
+.pato{
+    margin-top: 100px;
+}
+
+.pato{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.cuadroizquierdo{
+    color: white;
+    padding: 20px; 
+    margin-bottom: 30px;
+    width: 350px;
+    background-color: #201E50;
+    border-radius: 20px;
+}
+.cuadro-derecho {
+    color: white;
+    width: 350px;
+    padding: 20px; 
+    margin-bottom: 30px;
+    margin-left: 60px;
+    background-color: #201E50;
+    border-radius: 20px;
+}
+
+.cuadromasderecho{
+    color: white;
+    width: 350px;
+    margin-left: 60px;
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: #201E50;
+    border-radius: 20px;
+}
+.tabla{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: max-content;
+    border-radius: 30px;
+    display: block;
+    margin: 0 auto;
+}
+
+.fisio{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.dopa{
+    margin-top: 40px;
+    width: max-content;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.dopaa{
+    background-color:  #92AFD7; ;
+    width: 230px;
+    border-radius: 5px;
+}
+
+.nmda{
+    background-color:#92AFD7;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.gaba{
+    background-color:#92AFD7;
+    width: 170px;
+    border-radius: 5px;
+}
+
+.coli{
+    background-color: #92AFD7;
+    width:180px ;
+    border-radius: 5px;
+}
+
+.doscuadros{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.hipodopa {
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    margin-left: 10px; 
+    background-color: #5A7684;
+    border-radius: 20px; 
+    text-align: center;
+}
+
+.hipodesa{
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    margin-left: 100px;
+    background-color: #5A7684;
+    border-radius: 20px; 
+    text-align: center;
+}
+
+.subraya{
+    text-decoration: underline;
+    color: blue;
+}
+
+.manicli{
+    text-align: center;
+}
+
+.sinto{
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+
+}
+
+.posi{
+    border-radius: 20px;
+    margin-top: 40px;
+    overflow: auto;
+    float: left;
+    margin-right: 100px;
+    margin-left:30px ;
+}
+
+
+.aluci{
+    margin-top: 50px;
+}
+
+.alucio{
+    margin-top: 60px;
+    background-color:#92AFD7 ;
+    padding: 15px;
+    border-radius: 20px;
+    width: 800px;
+}
+
+.negat{
+    margin-top: 40px;
+    border-radius: 20px;
+    overflow: auto;
+    float: left;
+    margin-right: 100px;
+    margin-left: 30px;
+}
+
+.falta{
+    margin-top: 40px;
+}
